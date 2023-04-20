@@ -1,10 +1,10 @@
-title: Joe Cool's Online Biography
+title: Dmitry Strebkov
 
-email: hello@joecool.com
-github_url: https://github.com/joecool
-linkedin_url: https://linkedin.com/in/joecool
-medium_url: https://medium.com/joecool
-twitter_url: https://twitter.com/joecool
+email: dstrebkov@gmail.com
+github_url: https://github.com/dstrebkov
+linkedin_url: https://linkedin.com
+medium_url: https://medium.com
+twitter_url: https://twitter.com
 
 exclude: screenshots, LICENSE, README.md
 markdown: kramdown
